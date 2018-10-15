@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citmpz/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/citmpz/test/issues"
+  },
+  "homepage": "https://github.com/citmpz/test#readme",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "rss-parser": "^3.5.2"
+  }
+}
